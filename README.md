@@ -29,3 +29,7 @@ mission system for evaluate work, teamwork use a flowing unit to arrange the wor
 
 - 根据真实项目截图2，人物皆为化名，图片不显示请直接访问 https://www.wendangs.com/img/github/mission-workflow-document/2.png      
 ![真实项目流程截图](https://www.wendangs.com/img/github/mission-workflow-document/2.png "真实样例截图")   
+
+## 绩效评估   
+> 适用于所有的部门！   
+![真实项目绩效截图](https://www.wendangs.com/img/github/mission-workflow-document/3.png "真实样例截图")   
