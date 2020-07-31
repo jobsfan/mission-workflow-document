@@ -39,8 +39,8 @@ mission system for evaluate work, teamwork use a flowing unit to arrange the wor
 ## 文档界面   
 > 树形分类，可以随意移动节点到另一个节点里面/前面/后面，总之就是很方便维护和编辑树   
 
-图片打不开可以访问 https://www.wendangs.com/img/github/mission-workflow-document/4.png   
-![真实文档截图](https://www.wendangs.com/img/github/mission-workflow-document/4.png "真实样例截图")   
+图片打不开可以访问 https://www.wendangs.com/img/github/mission-workflow-document/4.jpg   
+![真实文档截图](https://www.wendangs.com/img/github/mission-workflow-document/4.jpg "真实样例截图")   
 
 
 ## TODO
